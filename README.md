@@ -10,6 +10,7 @@ git lfs pull
 
 Install them to `/usr/lib/firmware/`
 ```bash
+rm README.md
 cp * -r /lib/firmware/
 ```
 
